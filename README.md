@@ -106,7 +106,7 @@ This analysis demonstrates statistical techniques relevant to:
 
 ## Reproducing the Analysis
 
-Run `analysis.R` in R or RStudio.
+Run `SoloProj.R` in R or RStudio.
 
 The script retrieves the dataset directly from an online
 source and uses base R functions for statistical analysis
@@ -122,5 +122,3 @@ BSc Mathematics | University of Calgary
 
 ## Acknowledgments
 
-AI-assisted tools were used to support R programming,
-debugging, and statistical explanations.
